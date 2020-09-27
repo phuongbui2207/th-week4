@@ -41,9 +41,9 @@ ul {
     color: white; 
     text-decoration: none; 
     text-align: center; 
-    border: 1px solid; 
-    border-radius: 10px; 
-    background-color: #4CAF50
+    /* border: 1px solid;  */
+    /* border-radius: 10px;  */
+    /* background-color: #4CAF50 */
 }
 
 div[name=content] {
